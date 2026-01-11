@@ -1,7 +1,7 @@
 function Hero() {
   return (
     <section className="hero" id="home">
-       <div class="hero-badge">🔥 Build Unique Websites with NeXLet</div>
+       <div class="hero-badge">📈 Build Unique Websites with NeXLet</div>
     
     <h1 class="hero-title">Where Code Meets Creativity</h1>
 

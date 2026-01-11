@@ -67,7 +67,7 @@ function About() {
           <div className="card-icon">⚡</div>
           <div className="card-content">
             <h3>High Performance</h3>
-            <p>Lightning-fast loading speeds</p>
+            <p1>Lightning-fast loading speeds</p1>
           </div>
         </div>
 
@@ -75,7 +75,7 @@ function About() {
           <div className="card-icon">📱</div>
           <div className="card-content">
             <h3>Fully Responsive</h3>
-            <p>Perfect on all devices</p>
+            <p1>Perfect on all devices</p1>
           </div>
         </div>
 
@@ -83,7 +83,7 @@ function About() {
           <div className="card-icon">🎨</div>
           <div className="card-content">
             <h3>Modern UI/UX</h3>
-            <p>Beautiful & intuitive design</p>
+            <p1>Beautiful & intuitive design</p1>
           </div>
         </div>
 
@@ -91,7 +91,7 @@ function About() {
           <div className="card-icon">🚀</div>
           <div className="card-content">
             <h3>Scalable Solutions</h3>
-            <p>Grows with your business</p>
+            <p1>Grows with your business</p1>
           </div>
         </div>
       </div>

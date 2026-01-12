@@ -4,6 +4,8 @@ function Hero() {
        <div class="hero-badge">📈 Build Unique Websites with NeXLet</div>
     
     <h1 class="hero-title">Where Code Meets Creativity</h1>
+    <h1 class="hero-sub">Web Development & Digital Solutions</h1>
+
 
     <h3 class="hero-sub">Modern Responsive Websites for Businesses & Brands</h3>
 

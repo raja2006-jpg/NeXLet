@@ -31,6 +31,34 @@ function About() {
         <p className="section-divider"></p>
       </div>
 
+
+
+         <div class="brand-strip">
+  <div class="brand">
+    <span class="logo bold">UI</span><span class="logo thin">deck</span>
+  </div>
+
+  <div class="brand">
+    <i class="fa-solid fa-grid-2"></i>
+    <span>TailGrids</span>
+  </div>
+
+  <div class="brand">
+    <i class="fa-solid fa-infinity"></i>
+    <span>Lineicons</span>
+  </div>
+
+  <div class="brand">
+    <i class="fa-solid fa-circle-half-stroke"></i>
+    <span class="bold">Ayro UI</span>
+  </div>
+
+  <div class="brand">
+    <i class="fa-solid fa-layer-group"></i>
+    <span>PlainAdmin</span>
+  </div>
+</div>
+
       <div className="about-content">
         <p>
           <strong>NeXLet</strong> is a modern web development studio focused on building

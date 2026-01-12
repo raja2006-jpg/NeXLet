@@ -26,6 +26,8 @@ function Hero() {
         • web development • web design • Performance Optimization • Custom Solutions
       </marquee>
     </div>
+            
+        
 
     <h2 class="hero-marquee">
       <marquee behavior="scroll" direction="left" scrollamount="12">

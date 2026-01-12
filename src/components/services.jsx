@@ -37,7 +37,7 @@ function Services() {
           <div class="service-card">
             <div class="service-icon">
               <i class="fas fa-palette"></i>
-            </div>
+            </div> 
             <h3>Web Design & UI/UX</h3>
             <p>Clean, modern, and user-focused designs that enhance usability and strengthen brand identity.</p>
             <a href="#contact" class="service-link">Learn More →</a>
